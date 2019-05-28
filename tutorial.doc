@@ -1,0 +1,15 @@
+mongodb+srv://krishna123:<password>@devmern-bfjzi.mongodb.net/test?retryWrites=true
+
+
+npm concurrently : allows to run backgend express server and frentend react devserver in same time in one single command 
+npm install --save express-validator
+npm i bcryptjs  for password encryption save plain text in database
+npm i config : for global variable
+npm i gravatar : if user signup  its shows user profile details automatically
+npm i jsonwebtoken : jwt pass token validation
+npm i request: Request to be simplest way possible to make http calls. It supports HTTPS 
+npm i bodyParser : for read request body data 
+instead of using bodyParser we use express.json()
+
+
+/401: not authorised
