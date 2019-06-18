@@ -1,5 +1,6 @@
 mongodb+srv://krishna123:<password>@devmern-bfjzi.mongodb.net/test?retryWrites=true
 
+https://github.com/bradtraversy/devconnector_2.0
 
 npm concurrently : allows to run backgend express server and frentend react devserver in same time in one single command 
 npm install --save express-validator
